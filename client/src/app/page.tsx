@@ -4,7 +4,7 @@ import { NameReverser } from "./name-reverser";
 export default function Home() {
   return (
     <main>
-      <h3>Hello world</h3>
+      <h3>Hello world 👋</h3>
       <NameReverser />
     </main>
   );
